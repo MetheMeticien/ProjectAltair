@@ -47,7 +47,7 @@ int main()
 
     //cout << "\n\n";
 
-    dfs(5);
+    dfs(0);
 
     result();
 
